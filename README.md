@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diegoalves0688
-- 👀 I’m a tech enthusiast with a lot of experience in financial solutions, wallet, digital account, cashback, payment gateways and antifraud integrations.
+- 👀 I’m a tech enthusiast with a experience in financial solutions, wallet, digital account, cashback, payment gateways and antifraud integrations.
 - 💞️ I’m looking to collaborate on high impact financial solutions.
 - 📫 You can contact me by email or linkedin.
 - https://www.linkedin.com/in/diegoalvesdecarvalho/?locale=en_US
